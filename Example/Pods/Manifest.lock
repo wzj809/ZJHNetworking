@@ -1,0 +1,16 @@
+PODS:
+  - ZJHNetworking (0.1.0)
+
+DEPENDENCIES:
+  - ZJHNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  ZJHNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJHNetworking: 10f71369ae7c9a37314177a144aa4a3bd4412b25
+
+PODFILE CHECKSUM: b552613848caca75bc5b30e12c26621b2356164c
+
+COCOAPODS: 1.5.3
